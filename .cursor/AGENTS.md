@@ -2,7 +2,7 @@
 
 This repository is a **factory**, not a lab.
 
-Canonical contract: [cursor-agent-factory](https://github.com/jxtngx/cursor-agent-factory).
+Canonical contract: [cursor-langchain-factory](https://github.com/jxtngx/cursor-langchain-factory).
 Learn-by-typing: [cursor-robotics-lab](https://github.com/jxtngx/cursor-robotics-lab).
 
 > **Lab** = the human writes the code.
