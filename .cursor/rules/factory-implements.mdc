@@ -1,0 +1,14 @@
+---
+description: This is a factory. After the spec is approved, engineers implement tickets.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Factory, not a lab
+
+- Before a technical-requirements file exists: only `@init-robot` / discovery. No nodes.
+- After the spec is approved: implement the ticket. Do not send the user to write rclcpp themselves.
+- If they wanted to learn by typing, point at cursor-robotics-lab and stop expanding into a curriculum.
+- ROS 2 Jazzy + C++20 + rclcpp stay the default.
+- Sim-first. Do not require a physical robot for sprint 1.

@@ -1,0 +1,10 @@
+---
+description: Small diffs.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Incremental changes
+
+One package or one launch per turn unless the ticket says otherwise.

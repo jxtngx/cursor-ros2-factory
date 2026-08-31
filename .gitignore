@@ -1,0 +1,10 @@
+.venv/
+build/
+install/
+log/
+__pycache__/
+.DS_Store
+.env
+TRACK.md
+.cursor/plans/project-init/*.md
+!/.cursor/plans/project-init/.gitkeep

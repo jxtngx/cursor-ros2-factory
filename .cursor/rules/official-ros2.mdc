@@ -1,0 +1,11 @@
+---
+description: Official ROS 2 Jazzy docs are the spine.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Official ROS 2
+
+https://docs.ros.org/en/jazzy/
+C++20. No ROS 1. No copying Pollen/HF SDK trees as the product.
