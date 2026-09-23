@@ -1,3 +1,9 @@
+---
+name: run-ticket-plan
+description: Run Ticket Plan
+disable-model-invocation: true
+---
+
 # Run Ticket Plan
 
 After the spec is approved. Scrum Master.

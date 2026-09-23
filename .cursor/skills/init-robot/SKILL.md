@@ -1,3 +1,9 @@
+---
+name: init-robot
+description: Init Robot (factory)
+disable-model-invocation: true
+---
+
 # Init Robot (factory)
 
 Start a **new ROS 2 product** from this factory.

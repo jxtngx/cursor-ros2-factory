@@ -1,3 +1,9 @@
+---
+name: launch-product-discovery
+description: Launch Product Discovery
+disable-model-invocation: true
+---
+
 # Launch Product Discovery
 
 Requirements interview after TRACK is locked. Spec only.
